@@ -1,0 +1,43 @@
+ID,Tract Name,#HCP,#BLSA,#NORMAL,#ALL
+0,Anterior Commissure,1044,921,287,2252
+1,Arcuate Fascile left,1044,928,287,2259
+2,Arcuate Fascile right,1044,928,287,2259
+3,Acoustic Radiation left,1044,804,273,2121
+4,Acoustic Radiation right,1044,873,269,2186
+5,Anterior Thalamic Radiation left,1044,928,287,2259
+6,Anterior Thalamic Radiation right,1044,928,287,2259
+7,Cingulum Bundle Dorsal left,1044,928,260,2232
+8,Cingulum Bundle Dorsal right,1044,928,256,2228
+9,Cingulum Bundle Parahippocampal left,1044,827,199,2070
+10,Cingulum Bundle Parahippocampal right,1044,804,205,2053
+11,Cingulum Bundle Temporal left,1044,928,279,2251
+12,Cingulum Bundle Temporal right,1044,928,281,2253
+13,Corticospinal Tract left,1044,925,273,2242
+14,Corticospinal Tract right,1044,926,273,2243
+15,Frontal Aslant left,1044,928,287,2259
+16,Frontal Aslant right,1044,928,287,2259
+17,Forceps Major,1044,928,286,2258
+18,Forceps Minor,1044,928,287,2259
+19,Fornix left,1041,870,233,2144
+20,Fornix right,1043,873,211,2127
+21,Inferior Fronto-occipital Fasciculus left,1044,928,286,2258
+22,Inferior Fronto-occipital Fasciculus right,1044,928,286,2258
+23,Inferior Longitudinal Fasciculus left,1044,927,286,2257
+24,Inferior Longitudinal Fasciculus right,1044,928,287,2259
+25,Middle Cerebellar Peduncle,1044,921,273,2238
+26,Medio-Dorsal Longitudinal Fasciculus left,1044,927,287,2258
+27,Medio-Dorsal Longitudinal Fasciculus right,1044,928,287,2259
+28,Optic Radiation left,1044,928,287,2259
+29,Optic Radiation right,1044,928,287,2259
+30,Superior Longitudinal Fasciculus 1 left,1044,925,285,2254
+31,Superior Longitudinal Fasciculus 1 right,1044,923,286,2253
+32,Superior Longitudinal Fasciculus 2 left,1044,925,276,2245
+33,Superior Longitudinal Fasciculus 2 right,1044,922,274,2240
+34,Superior Longitudinal Fasciculus 3 left,1044,927,283,2254
+35,Superior Longitudinal Fasciculus 3 right,1044,928,283,2255
+36,Superior Thalamic Radiation left,1044,928,287,2259
+37,Superior Thalamic Radiation right,1044,928,287,2259
+38,Uncinate Fasciculus left,1044,927,287,2258
+39,Uncinate Fasciculus right,1044,928,287,2259
+40,Vertical Occipital Fasciculus left,1044,928,287,2259
+41,Vertical Occipital Fasciculus right,1044,928,287,2259

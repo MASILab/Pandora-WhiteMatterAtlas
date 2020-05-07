@@ -1,0 +1,45 @@
+ID,Tract Name,#HCP,#BLSA,#NORMAL,#ALL
+0,Arcuate Fasciculus left,1059,954,287,2300
+1,Arcuate Fasciculus left,964,766,253,1983
+2,Frontal Aslant Tract left,1057,955,293,2305
+3,Frontal Aslant Tract right,1059,956,293,2308
+4,Cerebellum left,793,655,267,1715
+5,Cerebellum right,828,642,259,1729
+6,Corpus Callosum Major,1059,956,293,2308
+7,Corpus Callosum Minor,1059,956,293,2308
+8,Full corpus callosum,1059,956,293,2308
+9,Corpus Callosum Mid,1059,952,293,2304
+10,Corticospinal Tract left,1059,956,293,2308
+11,Corticospinal Tract left,1058,956,293,2307
+12,Central Tegmental Tract left,1057,953,282,2292
+13,Central Tegmental Tract right,1055,950,285,2290
+14,Extreme Capsule left,1040,955,293,2288
+15,Extreme Capsule right,1055,955,293,2303
+16,Fronto-pontine tract left,1059,956,293,2308
+17,Fronto-pontine tract right,1059,956,293,2308
+18,Inferior Fronto-occipital Fasciculus left,1059,939,247,2245
+19,Inferior Fronto-occipital Fasciculus right,1055,949,273,2277
+20,Inferior Longitudinal Fasciculus left,1059,956,292,2307
+21,Inferior Longitudinal Fasciculus right,1057,955,286,2298
+22,Middle Cerebellar Peduncle,1059,956,290,2305
+23,Middle Longitudinal Fasciculus left,1049,942,291,2282
+24,Middle Longitudinal Fasciculus right,1054,955,293,2302
+25,Medial Longitudinal fasciculus left,1056,953,281,2290
+26,Medial Longitudinal fasciculus right,1057,953,280,2290
+27,Medial Lemniscus left,1042,950,286,2278
+28,Medial Lemniscus right,1035,945,288,2268
+29,Occipito Pontine Tract left,1056,941,291,2288
+30,Occipito Pontine Tract right,1057,949,293,2299
+31,Optic Radiation left,1059,939,292,2290
+32,Optic Radiation right,1059,945,293,2297
+33,Parieto Pontine Tract left,1059,956,293,2308
+34,Parieto Pontine Tract right,1059,956,293,2308
+35,Superior longitudinal fasciculus left,1058,956,292,2306
+36,Superior longitudinal fasciculus right,1059,956,292,2307
+37,Spinothalamic Tract left,1056,955,289,2300
+38,Spinothalamic Tract right,1053,956,288,2297
+39,Temporopontine Tract left,1039,939,287,2265
+40,Temporopontine Tract right,1045,948,289,2282
+41,Uncinate Fasciculus left,874,887,264,2025
+42,Uncinate Fasciculus right,874,839,269,1982
+43,Vermis,105,236,172,513
