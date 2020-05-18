@@ -1,0 +1,21 @@
+ID,Bundle Name,File Name,#HCP,#BLSA,#VU,#ALL
+0,Corpus Callosum Forceps Major,Callosum_Forceps_Major,1061,762,235,2058
+1,Corpus Callosum Forceps Minor,Callosum_Forceps_Minor,1061,904,241,2206
+2,Arcuate Fasciculus left,Left_Arcuate,1060,930,241,2231
+3,Cingulum - Cingulate Gyrus left,Left_Cingulum_Cingulate,1061,901,180,2142
+4,Cingulum - Hippocampal Gyrus left,Left_Cingulum_Hippocampus,1058,932,241,2231
+5,Corticospinal Tract left,Left_Corticospinal,1061,933,239,2233
+6,Inferior Occipito-frontal Fasciculus left,Left_IFOF,1061,933,239,2233
+7,Inferior Longitudinal Fasciculus left,Left_ILF,1061,934,242,2237
+8,Superior Longitudinal Fasciculus left,Left_SLF,1061,934,243,2238
+9,Thalamic Radiation left,Left_Thalamic_Radiatio,1061,933,241,2235
+10,Uncinate Fasciculus left,Left_Uncinate,1061,934,243,2238
+11,Arcuate Fasciculus right,Right_Arcuate,1031,899,235,2165
+12,Cingulum - Cingulate Gyrus right,Right_Cingulum_Cingulate,1061,901,199,2161
+13,Cingulum - Hippocampal Gyrus right,Right_Cingulum_Hippocampus,1061,932,239,2232
+14,Corticospinal Tract right,Right_Corticospinal,1061,932,243,2236
+15,Inferior Occipito-frontal Fasciculus right,Right_IFOF,1061,934,234,2229
+16,Inferior Longitudinal Fasciculus right,Right_ILF,1061,934,243,2238
+17,Superior Longitudinal Fasciculus right,Right_SLF,1061,934,243,2238
+18,Thalamic Radiation right,Right_Thalamic_Radiatio,1061,934,243,2238
+19,Uncinate Fasciculus right,Right_Uncinate,1061,934,243,2238
