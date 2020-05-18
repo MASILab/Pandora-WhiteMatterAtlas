@@ -12,7 +12,7 @@ These subjects scans are of all healthy adults and were drawn from three dataset
 </p>
     
 ## Organization
-A directory exists for each of the 6 methods. Within each are the corresponding 4D probablistic atlas created using all datasets, a csv file which describes the bundles within the atlas, and a supplementary folder which contains three similar atlas which were created using data from only one of the datasets (HCP, BLSA, VU).
+A directory exists for each of the 6 methods. Within each are the corresponding 4D probablistic atlas created using all datasets, a csv file which describes the bundles within the atlas, and a supplementary folder which contains three similar atlas which were created using data from only one of the datasets (HCP, BLSA, VU). Additionally, a similar directory exists for template T1 images which are created from the same subject data as the corresponding atlases. 
 
     .
     ├── ...
