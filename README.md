@@ -1,9 +1,7 @@
 # Pandora-WhiteMatterAtlas
 
-## Abstract
-While a few white matter atlases do exist based on diffusion MRI fiber tractography, they are often limited to descriptions of white matter as spatially separate “regions” rather than as white matter “bundles” or fascicles, which are well-known to overlap throughout the brain. 
-
-Pandora is a new population-based collection of white matter atlases represented in both volumetric and surface coordinates in a standard space. These atlases are based on 2443 subjects, and include 216 white matter fascicles derived from 6 different state-of-the-art tractography techniques: AFQ, AFQclipped, Recobundles, TractSeg, Tracula, and Xtract. Because these pathways may overlap, these atlases are represented as 4D volumes where each probabalistic segmentation is seperated across the 4th dimension.
+## Pandora white matter atlas
+Pandora is a new population-based collection of white matter atlases, represented in both volumetric and surface coordinates in a standard space. These atlases are based on 2443 subjects, and include 216 white matter fascicles derived from 6 different state-of-the-art tractography techniques: AFQ, AFQclipped, Recobundles, TractSeg, Tracula, and Xtract. Because these pathways may overlap, these atlases are represented as 4D volumes where each probabalistic segmentation is seperated across the 4th dimension.
 
 These subjects scans are of all healthy adults and were drawn from three datasets: Human Connectome Project (HCP), Baltimore Longitudinal Study of Aging (BLSA), and Vanderbilt University (VU). 
 
@@ -26,3 +24,6 @@ A directory exists for each of the 6 methods. Within each are the corresponding 
     |   |   └── ...   
     |   └── ...   
     └── ...   
+
+## Reference
+A manuscript is currently in preparation, and will be submitted shortly. 
