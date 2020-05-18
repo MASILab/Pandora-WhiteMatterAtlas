@@ -7,7 +7,7 @@ Pandora is a new population-based collection of white matter atlases represented
 
 These subjects scans are of all healthy adults and were drawn from three datasets: Human Connectome Project (HCP), Baltimore Longitudinal Study of Aging (BLSA), and Vanderbilt University (VU). 
 
-![Pipeline](https://github.com/MASILab/Pandora-WhiteMatterAtlas/blob/master/figures/pipeline.tif?raw=true)
+![Pipeline](https://github.com/MASILab/Pandora-WhiteMatterAtlas/blob/master/figures/pipeline.png?raw=true)
 
 ## Organization
 A directory exists for each of the 6 methods. Within each are the corresponding 4D probablistic atlas created using all datasets, a csv file which describes the bundles within the atlas, and a supplementary folder which contains three similar atlas which were created using data from only one of the datasets (HCP, BLSA, VU).
