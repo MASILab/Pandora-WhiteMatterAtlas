@@ -8,7 +8,7 @@ ID,Bundle Name,File Name,#HCP,#BLSA,#VU,#ALL
 6,Inferior Occipito-frontal Fasciculus left,Left_IFOF,1061,932,237,2230
 7,Inferior Longitudinal Fasciculus left,Left_ILF,1061,934,241,2236
 8,Superior Longitudinal Fasciculus left,Left_SLF,1061,934,243,2238
-9,Thalamic Radiation left,Left_Thalamic_Radiatio,1061,932,240,2233
+9,Thalamic Radiation left,Left_Thalamic_Radiation,1061,932,240,2233
 10,Uncinate Fasciculus left,Left_Uncinate,1061,933,242,2236
 11,Arcuate Fasciculus right,Right_Arcuate,1027,884,230,2141
 12,Cingulum - Cingulate Gyrus right,Right_Cingulum_Cingulate,1061,879,193,2133
@@ -17,5 +17,5 @@ ID,Bundle Name,File Name,#HCP,#BLSA,#VU,#ALL
 15,Inferior Occipito-frontal Fasciculus right,Right_IFOF,1061,934,233,2228
 16,Inferior Longitudinal Fasciculus right,Right_ILF,1061,934,242,2237
 17,Superior Longitudinal Fasciculus right,Right_SLF,1061,934,243,2238
-18,Thalamic Radiation right,Right_Thalamic_Radiatio,1061,934,243,2238
+18,Thalamic Radiation right,Right_Thalamic_Radiation,1061,934,243,2238
 19,Uncinate Fasciculus right,Right_Uncinate,1061,934,239,2234
