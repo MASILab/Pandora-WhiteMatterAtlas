@@ -14,15 +14,15 @@ A directory exists for each of the 6 methods. Within each are the corresponding 
 
     .
     ├── ...
-    ├── Method                              # One of the 6 tractography methods
-    |   ├── Method.nii.gz                   # 4D Atlas using all datasets
-    |   ├── rh.Method.vtk.gz                # Surface reconstruction of the 4D Atlas (right hemisphere)
-    |   ├── lh.Method.vtk.gz                # Surface reconstruction of the 4D Atlas (left hemisphere)
-    │   ├── Method_info.csv                 # Description of each bundle in the atlas
+    ├── <Method>                              # One of the 6 tractography methods
+    |   ├── <Method>.nii.gz                   # 4D Atlas using all datasets
+    |   ├── rh.<Method>.vtk.gz                # Surface reconstruction of the 4D Atlas (right hemisphere)
+    |   ├── lh.<Method>.vtk.gz                # Surface reconstruction of the 4D Atlas (left hemisphere)
+    │   ├── <Method>_info.csv                 # Description of each bundle in the atlas
     │   ├── supplementary
-    |   |   ├── Method_Dataset.nii.gz       # 4D Atlas using the HCP/BLSA/VU dataset
-    |   |   ├── rh.Method_Dataset.vtk.gz    # Surface reconstruction of the 4D Atlas (right hemisphere) using the HCP/BLSA/VU dataset
-    |   |   ├── lh.Method_Dataset.vtk.gz    # Surface reconstruction of the 4D Atlas (left hemisphere) using the HCP/BLSA/VU dataset
+    |   |   ├── <Method>_<Dataset>.nii.gz     # 4D Atlas using the HCP/BLSA/VU dataset
+    |   |   ├── rh.<Method>_<Dataset>.vtk.gz  # Surface reconstruction of the 4D Atlas (right hemisphere) using the HCP/BLSA/VU dataset
+    |   |   ├── lh.<Method>_<Dataset>.vtk.gz  # Surface reconstruction of the 4D Atlas (left hemisphere) using the HCP/BLSA/VU dataset
     |   |   └── ...   
     |   └── ...   
     └── ...   
