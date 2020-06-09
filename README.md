@@ -27,5 +27,8 @@ A directory exists for each of the 6 methods. Within each are the corresponding 
     |   └── ...   
     └── ...   
 
+## Download
+Please find the latest release using the release tab or at this link https://github.com/MASILab/Pandora-WhiteMatterAtlas/releases.
+
 ## Reference
 A manuscript is currently in preparation, and will be submitted shortly. 
