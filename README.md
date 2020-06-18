@@ -31,4 +31,7 @@ A directory exists for each of the 6 methods. Within each are the corresponding 
 Please find the latest release using the release tab or at this link https://github.com/MASILab/Pandora-WhiteMatterAtlas/releases.
 
 ## Reference
-A manuscript is currently in preparation, and will be submitted shortly. 
+A manuscript is currently in preparation, and will be submitted shortly.
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
