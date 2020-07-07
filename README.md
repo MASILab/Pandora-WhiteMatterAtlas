@@ -38,4 +38,4 @@ Colin B Hansen*, Qi Yang*, Ilwoo Lyu, Francois Rheault, Cailey Kerley, Bramsh Qa
 A preprint is available at https://www.biorxiv.org/content/10.1101/2020.06.12.148999v1.full
 
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+This work is licensed under the WU-Minn HCP Consortium (https://www.humanconnectome.org/study/hcp-young-adult/document/wu-minn-hcp-consortium-open-access-data-use-terms).
