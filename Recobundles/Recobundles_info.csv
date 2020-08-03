@@ -1,6 +1,6 @@
 ID,Bundle Name,File Name,#HCP,#BLSA,#VU,#ALL
 0,Arcuate Fasciculus left,AF_L,1059,954,287,2300
-1,Arcuate Fasciculus left,AF_R,964,766,253,1983
+1,Arcuate Fasciculus right,AF_R,964,766,253,1983
 2,Frontal Aslant Tract left,AST_L,1057,955,293,2305
 3,Frontal Aslant Tract right,AST_R,1059,956,293,2308
 4,Cerebellum left,CB_L,793,655,267,1715
@@ -10,7 +10,7 @@ ID,Bundle Name,File Name,#HCP,#BLSA,#VU,#ALL
 8,Full corpus callosum,CC,1059,956,293,2308
 9,Corpus Callosum Mid,CCMid,1059,952,293,2304
 10,Corticospinal Tract left,CST_L,1059,956,293,2308
-11,Corticospinal Tract left,CST_R,1058,956,293,2307
+11,Corticospinal Tract right,CST_R,1058,956,293,2307
 12,Central Tegmental Tract left,CTT_L,1057,953,282,2292
 13,Central Tegmental Tract right,CTT_R,1055,950,285,2290
 14,Extreme Capsule left,EMC_L,1040,955,293,2288
