@@ -1,45 +1,45 @@
 ID,Bundle Name,File Name,#HCP,#BLSA,#VU,#ALL
-0,Arcuate Fasciculus left,AF_L,1059,954,287,2300
-1,Arcuate Fasciculus right,AF_R,964,766,253,1983
+0,Arcuate Fasciculus left,AF_L,1059,954,286,2299
+1,Arcuate Fasciculus left,AF_R,952,747,248,1947
 2,Frontal Aslant Tract left,AST_L,1057,955,293,2305
 3,Frontal Aslant Tract right,AST_R,1059,956,293,2308
-4,Cerebellum left,CB_L,793,655,267,1715
-5,Cerebellum right,CB_R,828,642,259,1729
+4,Cerebellum left,CB_L,714,622,261,1597
+5,Cerebellum right,CB_R,755,602,255,1612
 6,Corpus Callosum Major,CC_ForcepsMajor,1059,956,293,2308
 7,Corpus Callosum Minor,CC_ForcepsMinor,1059,956,293,2308
-8,Full corpus callosum,CC,1059,956,293,2308
-9,Corpus Callosum Mid,CCMid,1059,952,293,2304
+8,Full corpus callosum,CC,1059,954,293,2306
+9,Corpus Callosum Mid,CCMid,1059,947,293,2299
 10,Corticospinal Tract left,CST_L,1059,956,293,2308
-11,Corticospinal Tract right,CST_R,1058,956,293,2307
-12,Central Tegmental Tract left,CTT_L,1057,953,282,2292
-13,Central Tegmental Tract right,CTT_R,1055,950,285,2290
-14,Extreme Capsule left,EMC_L,1040,955,293,2288
-15,Extreme Capsule right,EMC_R,1055,955,293,2303
+11,Corticospinal Tract left,CST_R,1058,956,293,2307
+12,Central Tegmental Tract left,CTT_L,1053,951,281,2285
+13,Central Tegmental Tract right,CTT_R,1054,945,285,2284
+14,Extreme Capsule left,EMC_L,1039,953,293,2285
+15,Extreme Capsule right,EMC_R,1054,955,293,2302
 16,Fronto-pontine tract left,FPT_L,1059,956,293,2308
 17,Fronto-pontine tract right,FPT_R,1059,956,293,2308
-18,Inferior Fronto-occipital Fasciculus left,IFOF_L,1059,939,247,2245
-19,Inferior Fronto-occipital Fasciculus right,IFOF_R,1055,949,273,2277
+18,Inferior Fronto-occipital Fasciculus left,IFOF_L,1058,936,243,2237
+19,Inferior Fronto-occipital Fasciculus right,IFOF_R,1054,949,269,2272
 20,Inferior Longitudinal Fasciculus left,ILF_L,1059,956,292,2307
-21,Inferior Longitudinal Fasciculus right,ILF_R,1057,955,286,2298
-22,Middle Cerebellar Peduncle,MCP,1059,956,290,2305
-23,Middle Longitudinal Fasciculus left,MdLF_L,1049,942,291,2282
+21,Inferior Longitudinal Fasciculus right,ILF_R,1052,955,285,2292
+22,Middle Cerebellar Peduncle,MCP,1059,956,288,2303
+23,Middle Longitudinal Fasciculus left,MdLF_L,1046,940,290,2276
 24,Middle Longitudinal Fasciculus right,MdLF_R,1054,955,293,2302
-25,Medial Longitudinal fasciculus left,MLF_L,1056,953,281,2290
-26,Medial Longitudinal fasciculus right,MLF_R,1057,953,280,2290
-27,Medial Lemniscus left,ML_L,1042,950,286,2278
-28,Medial Lemniscus right,ML_R,1035,945,288,2268
+25,Medial Longitudinal fasciculus left,MLF_L,1050,952,275,2277
+26,Medial Longitudinal fasciculus right,MLF_R,1055,945,281,2281
+27,Medial Lemniscus left,ML_L,1037,944,286,2267
+28,Medial Lemniscus right,ML_R,1031,942,287,2260
 29,Occipito Pontine Tract left,OPT_L,1056,941,291,2288
 30,Occipito Pontine Tract right,OPT_R,1057,949,293,2299
-31,Optic Radiation left,OR_L,1059,939,292,2290
-32,Optic Radiation right,OR_R,1059,945,293,2297
+31,Optic Radiation left,OR_L,1059,931,291,2281
+32,Optic Radiation right,OR_R,1059,942,292,2293
 33,Parieto Pontine Tract left,PPT_L,1059,956,293,2308
 34,Parieto Pontine Tract right,PPT_R,1059,956,293,2308
 35,Superior longitudinal fasciculus left,SLF_L,1058,956,292,2306
 36,Superior longitudinal fasciculus right,SLF_R,1059,956,292,2307
-37,Spinothalamic Tract left,STT_L,1056,955,289,2300
-38,Spinothalamic Tract right,STT_R,1053,956,288,2297
-39,Temporopontine Tract left,TPT_L,1039,939,287,2265
-40,Temporopontine Tract right,TPT_R,1045,948,289,2282
-41,Uncinate Fasciculus left,UF_L,874,887,264,2025
-42,Uncinate Fasciculus right,UF_R,874,839,269,1982
-43,Vermis,V,105,236,172,513
+37,Spinothalamic Tract left,STT_L,1056,954,288,2298
+38,Spinothalamic Tract right,STT_R,1053,955,288,2296
+39,Temporopontine Tract left,TPT_L,1033,938,286,2257
+40,Temporopontine Tract right,TPT_R,1043,948,288,2279
+41,Uncinate Fasciculus left,UF_L,850,883,263,1996
+42,Uncinate Fasciculus right,UF_R,845,832,265,1942
+43,Vermis,V,88,221,172,481
